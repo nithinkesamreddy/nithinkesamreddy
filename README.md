@@ -41,14 +41,17 @@ A passionate **Computer Science student specializing in Data Science** with hand
 
 ### 🤝 Connect with Me
 
+### 🤝 Let's Connect!
+
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://shields.io" alt="LinkedIn Badge" />
   </a>
-  <a href="https://leetcode.com/u/Nithinreddy_3876/" target="_blank">
-    <img src="https://shields.io" alt="LeetCode" />
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://shields.io" alt="LeetCode Badge" />
   </a>
   <a href="mailto:nithinkesamreddy@gmail.com">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://shields.io" alt="Gmail Badge" />
   </a>
 </p>
+
