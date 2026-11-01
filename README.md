@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/kesamreddy-nithinkumar-reddy-757046345/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
+  <a href="https://leetcode.com/Nithinreddy_3876" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:nithinkesamreddy@gmail.com">
